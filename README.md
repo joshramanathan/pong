@@ -1,2 +1,2 @@
 # pong
-Fun rendition of the game Pong
+Fun rendition of the game Pong with Pygame
